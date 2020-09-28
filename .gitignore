@@ -1,0 +1,8 @@
+/.idea
+/.gradle
+*.iml
+# Project exclude paths
+/build/
+/build/classes/kotlin/jvm/main/
+/build/classes/kotlin/macosX64/main/
+/build/js/packages/Y.Cup.Test/kotlin/
